@@ -1,0 +1,10 @@
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\bin\Debug\Traffic_Simulator.exe
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\bin\Debug\Traffic_Simulator.pdb
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.Form1.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.Properties.Resources.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.csproj.GenerateResource.Cache
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.exe
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.pdb
+D:\SEGUN\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.exe
+D:\SEGUN\Programming\VisualStudio2008\Traffic_Simulator\Traffic_Simulator\obj\Debug\Traffic_Simulator.pdb
